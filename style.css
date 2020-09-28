@@ -28,7 +28,7 @@ h2{
   width: 100%;
 }
 .firstbackground{
-  background-image: url(pictures/top-banner.png);
+  background-image: url(top-banner.png);
 background-repeat: no-repeat;
   padding-bottom: 200px;
 }
@@ -43,7 +43,7 @@ background-repeat: no-repeat;
   
 }
 .dream-area{
-  background-image: url(pictures/dream-bg.png);
+  background-image: url(dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -55,7 +55,7 @@ background-repeat: no-repeat;
     }
 
   .experience{
-    background-image: url(pictures/exp-bg.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 
