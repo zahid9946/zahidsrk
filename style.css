@@ -54,11 +54,9 @@ background-repeat: no-repeat;
 
     }
   .experience{
-    background-image: url(dream-bg.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
-
-  }
+    }
 #fulls{
   border-left: 7px solid tomato;
 }
