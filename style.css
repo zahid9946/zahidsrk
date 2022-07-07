@@ -1,33 +1,30 @@
-body{
-  margin:0;
-  font-family: 'Poppins', sans-serif;
-}
-section{
-  height: 550px;
-}
-p{
+
+.pera{
   padding-bottom: 30px;
+	font-family: 'poppins', sans-serif;
+
+}
+.headers{
+	padding-bottom: 30px;
 }
 
 h1{
-  font-size: 50px;
+  font-size: 90px;
+  font-family: 'poppins', sans-serif;
 }
 h2{
+	  font-family: 'poppins', sans-serif;
+
   font-size: 36px;
+}
+img{
+	width: 100%;
 }
 .zahid{
   color:orange;
 }
-.half{
-  width: 40%;
-  float: left;
-  margin-left: 5%;
-  padding-left:  2%;
-}
-.half img{
-  width: 100%;
-}
-.firstbackground{
+
+.secone{
   background-image: url(top-banner.png);
 background-repeat: no-repeat;
   padding-bottom: 200px;
@@ -40,7 +37,6 @@ background-repeat: no-repeat;
   color:white;
   font-weight: 700;
   margin-bottom: 150px;
-  
 }
 .dream-area{
   background-image: url(dream-bg.png);
@@ -48,26 +44,34 @@ background-repeat: no-repeat;
   background-position: right;
 }
 .box{
+
   box-shadow: 10px 10px 40px gray;
   border-radius: 15px;
-  height: 50%;
+  border-left: 7px solid tomato;
+  padding:20px;
+  margin: 15px;
+}
 
-    }
 .experience{
     background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    }
-#fulls{
-  border-left: 7px solid tomato;
+	margin-top: 60px; 
+	margin-bottom: 60px; 
 }
 .asdf{
   color: tomato;
 }
 .footer{
+	padding-top: 60px;
   text-align: center;
+  	font-family: 'poppins', sans-serif;
+
 }
 .asd{
-  padding-top: 20px;
+  padding-bottom: 30px;
   text-align: center;
+}
+.row{
+	margin-top: 70px; 
 }
